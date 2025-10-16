@@ -1,5 +1,3 @@
-# ==================== examples/scrape_jobs.py ====================
-
 """
 Example script for scraping LinkedIn jobs
 """

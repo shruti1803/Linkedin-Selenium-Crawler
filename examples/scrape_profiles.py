@@ -1,5 +1,3 @@
-# ==================== examples/scrape_profiles.py ====================
-
 """
 Example script for scraping LinkedIn profiles
 """

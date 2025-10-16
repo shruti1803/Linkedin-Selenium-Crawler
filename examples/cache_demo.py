@@ -1,5 +1,3 @@
-# ==================== examples/cache_demo.py ====================
-
 """
 Demonstrate caching capabilities
 """

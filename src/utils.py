@@ -1,5 +1,3 @@
-# ==================== src/utils.py ====================
-
 import hashlib
 import logging
 import os

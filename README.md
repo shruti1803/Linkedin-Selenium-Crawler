@@ -1,4 +1,3 @@
-# ==================== README.md ====================
 # LinkedIn Selenium Crawler
 
 Automated LinkedIn job and profile data extraction with Selenium, featuring SQLite-based caching and improved reliability through retry logic.
@@ -39,14 +38,7 @@ linkedin-selenium-crawler/
 
 ## 🚀 Installation
 
-### 1. Clone the Repository
-
-```bash
-git clone https://github.com/yourusername/linkedin-selenium-crawler.git
-cd linkedin-selenium-crawler
-```
-
-### 2. Create Virtual Environment
+### 1. Create Virtual Environment
 
 **Windows:**
 ```bash

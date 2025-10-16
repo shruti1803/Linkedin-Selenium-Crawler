@@ -1,9 +1,6 @@
 """
 Configuration and Utility modules
 """
-
-# ==================== src/config.py ====================
-
 import os
 from dotenv import load_dotenv
 

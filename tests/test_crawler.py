@@ -1,9 +1,6 @@
 """
 Test suite for LinkedIn Crawler
 """
-
-# ==================== tests/test_crawler.py ====================
-
 import unittest
 import sys
 import os
